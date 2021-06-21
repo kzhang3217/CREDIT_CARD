@@ -1,0 +1,3 @@
+#Control that returns listings where GDS calls did not all go through 
+#Check that approved applications have offers . declined applications are declined correctly. 
+#can dive further and check which GDS call failed - know the order of service calls
