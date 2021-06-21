@@ -1,0 +1,17 @@
+## credit report module 
+
+CREATE OR REPLACE TABLE Group_BizOps.CR_CC AS (
+
+
+
+
+
+
+
+
+
+
+
+
+
+)
